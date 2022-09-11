@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/drawable/actionbar_style.xml" value="0.1315" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/drawable/add_btn_style.xml" value="0.1315" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/drawable/button_style.xml" value="0.1315" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/drawable/ic_add.xml" value="0.184" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/layout/activity_booking_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/layout/activity_check_list.xml" value="0.31702728127939794" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/layout/add_dialogbox.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/layout/delete_dialogbox.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/SOUVIK MANDAL/AndroidStudioProjects/GearToCare/app/src/main/res/layout/item.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
